@@ -55,13 +55,11 @@ namespace lab2
             a12 = a14; //decimal <- nuint
 
 
-
             Console.WriteLine($"bool:{a9}\tbyte: {a2}\tsbyte: {a3}");
             Console.WriteLine($"short: {a4}\tushort: {a5}\tlong: {a6}");
             Console.WriteLine($"ulong: {a7}\tuint: {a8}\tint{a1}");
             Console.WriteLine($"float: {a10}\tdouble: {a11}\tdecimal: {a12}\t");
             Console.WriteLine($"nint: {a13}\tuint: {a14}\tstring: {a15}\t");
-
 
 
             Console.WriteLine();
@@ -91,7 +89,6 @@ namespace lab2
 
         static void taskStrings()
         {
-
 
             /*object a100 = 7;
            object b0 = 7;
@@ -211,8 +208,7 @@ namespace lab2
             {
                 for (int j = 0; j < arrayStepwise[i].Length; j++)
                 {
-                    arrayStepwise[i][j] = Int32.Parse(Console.ReadLine());
-
+                    arrayStepwise[i][j] = rand.Next(50);
                 }
 
             }
@@ -366,5 +362,3 @@ namespace lab2
         }
     }
 }
-
-//https://github.com/nikawak/OOP.git
