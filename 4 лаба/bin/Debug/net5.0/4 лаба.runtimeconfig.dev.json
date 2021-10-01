@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nikawak\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nikawak\\.nuget\\packages"
+    ]
+  }
+}
