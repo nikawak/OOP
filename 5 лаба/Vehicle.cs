@@ -6,17 +6,23 @@ using System.Threading.Tasks;
 
 namespace _5_лаба
 {
+    //..........//ТРАНСПОРТОМ МОЖНО УПРАВЛЯТЬ//..........//
     public abstract class Vehicle : ICarManagement
     {
+        protected string model;
+        public string Model
+        {
+            get { return model; }
+        }
         protected byte wheels;
         public byte Wheels
         {
             get { return wheels; }
         }
-
         protected int enginePower;
         public int EnginePower { get { return enginePower; } }
-        
+
+
 
         public virtual bool PoweringEngine(Engine engine)
         { 
@@ -30,7 +36,11 @@ namespace _5_лаба
         }
         public override string ToString()
         {
-            return "Объект класса " + GetType().Name + " имеет " + Wheels + " колес(а)\nМощность его двигателя составляет " + EnginePower + " л.с.";
+            string res = "Объект класса " + GetType().Name;
+            if (model != null) res += "\nМодель: " + model;
+            else res += "\n";
+            res += " имеет " + Wheels + " колес(а)\nМощность его двигателя составляет " + EnginePower + " л.с.";
+            return res;
         }
         public override bool Equals(object obj)
         {
@@ -41,7 +51,6 @@ namespace _5_лаба
             }
             return false;
         }
-
         public override int GetHashCode()
         {
             Random rand = new Random();
@@ -57,17 +66,41 @@ namespace _5_лаба
             Random rand = new Random();
             enginePower = rand.Next(100, 300)/10*10;
         }
+        public Car(string model):this()
+        {
+            this.model = model;
+        }
     }
 
-
+    //..........//ТРАНСПОРТ + РАЗУМНОЕ СУЩЕСТВО//..........//
     public class Transformer : Vehicle, IIntelligentCreature
     {
+        private string name;
+        public string Name { get => name; }
+
+        private int yearOfBirth;
+        public int YearOfBirth { get => yearOfBirth; }
+
         
         public Transformer()
         {
             this.wheels = 16;
-            Random rand = new Random();
-            enginePower = rand.Next(1000, 10000) / 100*100 ;
+            enginePower = new Random().Next(1000000)/1000*1000 ;
+        }
+        public Transformer(string name,string model,int yearOfBirth):this()
+        {
+            enginePower = yearOfBirth * 1000;
+            this.yearOfBirth = yearOfBirth;
+            this.name = name;
+            this.model = model;
+        }
+        public override string ToString()
+        {
+            string res = "Объект класса " + GetType().Name;
+            if (model != null) res += "\nИмя: "+name+"; Модель: " + model;
+            else res += "\n";
+            res += " имеет " + Wheels + " колес(а)\nМощность его двигателя составляет " + EnginePower + " л.с.";
+            return res;
         }
         public override bool PoweringEngine(Engine engine)
         {
@@ -89,7 +122,10 @@ namespace _5_лаба
             Random rand = new Random();
             enginePower = rand.Next(10, 50)/10 *10;
         }
-
+        public Bike(string model) : this()
+        {
+            this.model = model;
+        }
         public override bool PoweringEngine(Engine engine)
         {
             Console.WriteLine(GetType().Name);
@@ -101,6 +137,4 @@ namespace _5_лаба
             return res;
         }
     }
-
-
 }

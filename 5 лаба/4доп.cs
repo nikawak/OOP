@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _5_лаба
 {
+    //..........//КЛАССИЧЕСКИЙ ИНТЕРФЕЙС Icloneable//..........//
     interface Icloneable
     {
         bool DoClone();
