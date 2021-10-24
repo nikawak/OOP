@@ -4,6 +4,7 @@ using System.Linq; //Arrays
 
 namespace lab2
 {
+    
     class Program
     {
 
@@ -164,70 +165,76 @@ namespace lab2
         static void taskArray()
         {
 
-            Console.WriteLine("Введите размер для двумерного квадратного массива:");
-            int size = Int32.Parse(Console.ReadLine());
+            //Console.WriteLine("Введите размер для двумерного квадратного массива:");
+            //int size = Int32.Parse(Console.ReadLine());
 
 
-            var arraySquare = new int[size, size];
-            Random rand = new Random();
+            //var arraySquare = new int[size, size];
+            //Random rand = new Random();
 
-            for (int a = 0; a < size; a++) //
+            //for (int a = 0; a < size; a++) //
+            //{
+            //    for (int b = 0; b < size; b++)
+            //    {
+            //        arraySquare[a, b] = rand.Next(20);
+            //        Console.Write(arraySquare[a, b] + "\t");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+
+            //string[] arrayString = { "Sunday", "Monday", "Tuersday",
+            //  "Wednesday", "Thirsday", "Friday", "Saturday" };
+
+            //foreach (string item in arrayString)
+            //{
+            //    Console.Write(item + " ");
+            //}
+            //Console.WriteLine();
+            //Console.WriteLine("Size of arraySrting is {0}", arrayString.Length);
+
+
+
+
+            //var arrayStepwise = new int[3][];
+
+            //arrayStepwise[0] = new int[2];
+            //arrayStepwise[1] = new int[3];
+            //arrayStepwise[2] = new int[4];
+
+            //Console.WriteLine("Enter :");
+
+            //for (int i = 0; i < arrayStepwise.Length; i++)
+            //{
+            //    for (int j = 0; j < arrayStepwise[i].Length; j++)
+            //    {
+            //        arrayStepwise[i][j] = rand.Next(50);
+            //    }
+
+            //}
+
+            //Console.WriteLine();
+
+            //for (int i = 0; i < arrayStepwise.Length; i++)
+            //{
+            //    for (int j = 0; j < arrayStepwise[i].Length; j++)
+            //    {
+            //        Console.Write(arrayStepwise[i][j] + " ");
+
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //Console.ReadKey();
+
+            bool foo()
             {
-                for (int b = 0; b < size; b++)
-                {
-                    arraySquare[a, b] = rand.Next(20);
-                    Console.Write(arraySquare[a, b] + "\t");
-                }
-                Console.WriteLine();
+                double x = 6.0;
+                return (x % 2) == 0 ? true : false;
             }
 
-
-
-            string[] arrayString = { "Sunday", "Monday", "Tuersday",
-              "Wednesday", "Thirsday", "Friday", "Saturday" };
-
-            foreach (string item in arrayString)
-            {
-                Console.Write(item + " ");
-            }
-            Console.WriteLine();
-            Console.WriteLine("Size of arraySrting is {0}", arrayString.Length);
-
-
-
-
-            var arrayStepwise = new int[3][];
-
-            arrayStepwise[0] = new int[2];
-            arrayStepwise[1] = new int[3];
-            arrayStepwise[2] = new int[4];
-
-            Console.WriteLine("Enter :");
-
-            for (int i = 0; i < arrayStepwise.Length; i++)
-            {
-                for (int j = 0; j < arrayStepwise[i].Length; j++)
-                {
-                    arrayStepwise[i][j] = rand.Next(50);
-                }
-
-            }
-
-            Console.WriteLine();
-
-            for (int i = 0; i < arrayStepwise.Length; i++)
-            {
-                for (int j = 0; j < arrayStepwise[i].Length; j++)
-                {
-                    Console.Write(arrayStepwise[i][j] + " ");
-
-                }
-                Console.WriteLine();
-            }
-
-            Console.ReadKey();
-
-
+            Console.WriteLine(foo());
         }
 
         static void taskTuple()

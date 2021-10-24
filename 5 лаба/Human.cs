@@ -17,6 +17,8 @@
         {
             string res = "Объект класса " + GetType().Name +"\n";
             res += "Имя человека: " + Name;
+            if (TransName != null)
+                res += "\nУправляет трансформером " + TransName;
             return res;
         }
 

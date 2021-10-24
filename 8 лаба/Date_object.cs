@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4_лаба
+namespace _8_лаба
 {
     partial class Array<T>
     {

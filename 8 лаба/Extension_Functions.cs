@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4_лаба
+namespace _8_лаба
 {
     //............//КЛАСС ДЛЯ МЕТОДОВ РАСШИРЕНИЯ//............//
-    static class StaticOperation
+    static class StaticFunctions
     {
         public static long Sum(this Array<int> arr)
         {
@@ -31,6 +31,16 @@ namespace _4_лаба
             return max - min;
         }
 
+        public static Array<double> Del5El(this Array<double> arr)
+        {
+            Array<double> arr2 = new Array<double>(arr.Size - 5);
+            for (int i = 0; i < arr.Size - 5; i++)
+            {
+                arr2[i] = arr[i + 5];
+            }
+            return arr2;
+
+        }
         public static Array<int> Del5El(this Array<int> arr)
         {
             Array<int> arr2 = new Array<int>(arr.Size - 5);

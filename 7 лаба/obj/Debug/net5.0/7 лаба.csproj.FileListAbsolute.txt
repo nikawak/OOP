@@ -1,0 +1,20 @@
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.csproj.AssemblyReference.cache
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.AssemblyInfoInputs.cache
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.AssemblyInfo.cs
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.csproj.CoreCompileInputs.cache
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\7 лаба.exe
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\7 лаба.deps.json
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\7 лаба.runtimeconfig.json
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\7 лаба.runtimeconfig.dev.json
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\7 лаба.dll
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\ref\7 лаба.dll
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\7 лаба.pdb
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.csproj.CopyComplete
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.dll
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\ref\7 лаба.dll
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.pdb
+D:\Programming\Лабы\oop\7 лаба\obj\Debug\net5.0\7 лаба.genruntimeconfig.cache
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programming\Лабы\oop\7 лаба\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll

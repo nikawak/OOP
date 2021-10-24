@@ -32,22 +32,23 @@ namespace _5_лаба
             Army A = new Army("Альфа");
             A = A.Add(new Transformer("Вадим", "Автобот1", 680));
             A = A.Add(new Transformer("Егор", "Автобот2", 720));
-            A = A.Add(new Transformer("Крис", "Автобот3", 330));
             A = A.Add(new Human("Павел", 1995));
+            A = A.Add(person);
+
             Army B = new Army("Омега");
             B = B.Add(new Transformer("Вадим", "Десиптикон0001", 680));
             B = B.Add(new Transformer("Егор", "Десиптикон1000", 720));
             B = B.Add(new Transformer("Крис", "Десиптикон2000", 330));
             B = B.Add(new Human("Павел", 1995));
-            A = A.Del("Крис");
+            B = B.Del("Вадим");
+
 
             //..........//ПОИСК//..........//
-            IIntelligentCreature tr = A.Find(680);
-            Console.WriteLine(tr + "\n");
-            Console.WriteLine(A.arr[2]);
+            //IIntelligentCreature tr = ArmyControl.Find(A, 680);
+            //Console.WriteLine(tr + "\n");
 
-            A = A.FindPower(300000, 700000);
-            B = B.FindPower(300000, 400000);
+            //A = ArmyControl.FindPower(A,300000, 700000);
+            //B = ArmyControl.FindPower(B,300000, 400000);
             //..........//ВЫВОД//..........//
             A.Print();
             B.Print();
@@ -64,7 +65,16 @@ namespace _5_лаба
             else today.State = MyState.DeadInside;
 
             Console.WriteLine(today);
-            
+
+
+
+            string path = "file.txt";
+            Army C = ArmyControl.InitFromFile(new Army("Дельта"), (path));
+            C.Print();
+
+            string pathJson = "Json.json";
+            Army D = ArmyControl.InitFromJson(pathJson);
+            D.Print();
         }
     }
 }

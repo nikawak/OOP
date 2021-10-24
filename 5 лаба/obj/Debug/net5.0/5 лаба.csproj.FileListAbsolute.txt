@@ -14,3 +14,13 @@ D:\Programming\Лабы\oop\5 лаба\obj\Debug\net5.0\5 лаба.dll
 D:\Programming\Лабы\oop\5 лаба\obj\Debug\net5.0\ref\5 лаба.dll
 D:\Programming\Лабы\oop\5 лаба\obj\Debug\net5.0\5 лаба.pdb
 D:\Programming\Лабы\oop\5 лаба\obj\Debug\net5.0\5 лаба.genruntimeconfig.cache
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Programming\Лабы\oop\5 лаба\obj\Debug\net5.0\5 лаба.csproj.CopyComplete
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Programming\Лабы\oop\5 лаба\bin\Debug\net5.0\Intercom.dll
