@@ -85,10 +85,10 @@ namespace _7_лаба
 
                 Functions.UseAssert();
 
-                   Functions.ReadFile(path);
+                Functions.ReadFile(path);
 
             }
-            catch(ExceptionTest exe)
+            catch(ExTestWrongData exe)
             {
                 if (exe is ExTestDivZero || exe is ExTestWrongData || exe is ExTestReadFile)
                 {

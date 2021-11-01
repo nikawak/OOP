@@ -11,7 +11,7 @@ namespace _7_лаба
     {
         public static void Divide()
         {
-            int s = 1;
+            int s = 0;
             if (s == 0) throw new ExTestDivZero("Ошибка!!! Попытка деления на 0");
             int v = 8 / s;
         }

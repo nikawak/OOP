@@ -65,7 +65,7 @@ namespace _8_лаба
                 Array<Car> cars = new Array<Car>();
                 for (int i = 0; i < size; i++)
                 {
-                    cars = cars.Add(new Car($"Tesla {i}"));
+                    cars = cars.Add(new Car($"Tesla {i+1}"));
                 }
                 for (int i = 0; i < cars.Size; i++)
                 {

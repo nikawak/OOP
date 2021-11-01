@@ -1,0 +1,16 @@
+D:\Programming\Лабы\oop\Game\bin\Debug\net5.0\Game.exe
+D:\Programming\Лабы\oop\Game\bin\Debug\net5.0\Game.deps.json
+D:\Programming\Лабы\oop\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+D:\Programming\Лабы\oop\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+D:\Programming\Лабы\oop\Game\bin\Debug\net5.0\Game.dll
+D:\Programming\Лабы\oop\Game\bin\Debug\net5.0\ref\Game.dll
+D:\Programming\Лабы\oop\Game\bin\Debug\net5.0\Game.pdb
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\Game.csproj.AssemblyReference.cache
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\Game.dll
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\ref\Game.dll
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\Game.pdb
+D:\Programming\Лабы\oop\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programming\Лабы\oop\9 лаба\bin\Debug\net5.0\9 лаба.exe
+D:\Programming\Лабы\oop\9 лаба\bin\Debug\net5.0\9 лаба.deps.json
+D:\Programming\Лабы\oop\9 лаба\bin\Debug\net5.0\9 лаба.runtimeconfig.json
+D:\Programming\Лабы\oop\9 лаба\bin\Debug\net5.0\9 лаба.runtimeconfig.dev.json
+D:\Programming\Лабы\oop\9 лаба\bin\Debug\net5.0\9 лаба.dll
+D:\Programming\Лабы\oop\9 лаба\bin\Debug\net5.0\ref\9 лаба.dll
+D:\Programming\Лабы\oop\9 лаба\bin\Debug\net5.0\9 лаба.pdb
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\9 лаба.csproj.AssemblyReference.cache
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\9 лаба.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\9 лаба.AssemblyInfoInputs.cache
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\9 лаба.AssemblyInfo.cs
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\9 лаба.csproj.CoreCompileInputs.cache
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\9 лаба.dll
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\ref\9 лаба.dll
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\9 лаба.pdb
+D:\Programming\Лабы\oop\9 лаба\obj\Debug\net5.0\9 лаба.genruntimeconfig.cache
