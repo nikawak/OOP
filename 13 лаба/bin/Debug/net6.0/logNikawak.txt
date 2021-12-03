@@ -1,0 +1,24 @@
+Time of Action: 22.11.2021 1:31:26 Action: FirstTask File: inspect Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect
+Time of Action: 22.11.2021 1:31:26 Action: SecondTask File: FilesNikawak Path: inspect\FilesNikawak
+Time of Action: 22.11.2021 1:31:26 Action: ThirdTask File: inspect.zip Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect\inspect.zip
+Time of Action: 22.11.2021 1:52:25 Action: FirstTask File: inspect Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect
+Time of Action: 22.11.2021 1:52:25 Action: SecondTask File: FilesNikawak Path: inspect\FilesNikawak
+Time of Action: 22.11.2021 1:52:25 Action: ThirdTask File: inspect.zip Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect\inspect.zip
+Time of Action: 22.11.2021 1:52:41 Action: FirstTask File: inspect Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect
+Time of Action: 22.11.2021 1:52:41 Action: SecondTask File: FilesNikawak Path: inspect\FilesNikawak
+Time of Action: 22.11.2021 1:52:41 Action: ThirdTask File: inspect.zip Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect\inspect.zip
+Time of Action: 22.11.2021 1:54:03 Action: FirstTask File: inspect Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect
+Time of Action: 22.11.2021 1:54:03 Action: SecondTask File: FilesNikawak Path: inspect\FilesNikawak
+Time of Action: 22.11.2021 1:54:03 Action: ThirdTask File: inspect.zip Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect\inspect.zip
+Time of Action: 22.11.2021 1:54:29 Action: FirstTask File: inspect Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect
+Time of Action: 22.11.2021 1:54:29 Action: SecondTask File: FilesNikawak Path: inspect\FilesNikawak
+Time of Action: 22.11.2021 1:54:29 Action: ThirdTask File: inspect.zip Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect\inspect.zip
+Time of Action: 29.11.2021 18:20:15 Action: FirstTask File: inspect Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect
+Time of Action: 29.11.2021 18:20:15 Action: SecondTask File: FilesNikawak Path: inspect\FilesNikawak
+Time of Action: 29.11.2021 18:20:15 Action: ThirdTask File: inspect.zip Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect\inspect.zip
+Time of Action: 29.11.2021 18:21:23 Action: FirstTask File: inspect Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect
+Time of Action: 29.11.2021 18:21:23 Action: SecondTask File: FilesNikawak Path: inspect\FilesNikawak
+Time of Action: 29.11.2021 18:21:24 Action: ThirdTask File: inspect.zip Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect\inspect.zip
+Time of Action: 29.11.2021 18:25:32 Action: FirstTask File: inspect Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect
+Time of Action: 29.11.2021 18:25:32 Action: SecondTask File: FilesNikawak Path: inspect\FilesNikawak
+Time of Action: 29.11.2021 18:25:32 Action: ThirdTask File: inspect.zip Path: D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect\inspect.zip

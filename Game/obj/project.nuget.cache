@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PSNI6U4Y+WTWc1wzXDbfpLlGuck9bN16g70jQpeUwJNDw83G0CzwC9LdIZxHW0oLBXVlBz4THo/1eXM+JQKAVA==",
+  "dgSpecHash": "84Xe/fRj5ee/URDhA4SZQXBtjZLO5ZMjlod8hGKm0RByQIOQIgvxsZSk31cNLo34Lva27bApEPz+sD+Cwd+KwA==",
   "success": true,
   "projectFilePath": "D:\\Programming\\Лабы\\oop\\Game\\Game.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

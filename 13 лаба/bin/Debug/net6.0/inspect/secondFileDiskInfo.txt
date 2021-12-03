@@ -1,0 +1,1 @@
+C:\25F7E71A5534 | C:\DumpStack.log.tmp | C:\pagefile.sys | C:\swapfile.sys | C:\UkLog.dat | C:\$RECYCLE.BIN | C:\$SysReset | C:\Documents and Settings | C:\Intel | C:\Program Files | C:\Program Files (x86) | C:\ProgramData | C:\System Volume Information | C:\Temp | C:\Users | C:\Windows | 

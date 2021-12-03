@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJBfeQXP9PyB9d2CvZ0rV8UNT7qWrOxIBkfoUlxIHeUTkEpVPoRiGjNAi3GEnze5zKFZYR8IfM9HUc3LTFyVYg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Лабы\\oop\\14 лаба\\14 лаба.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Никита\\.nuget\\packages\\ecocore\\7.0.0.13676\\ecocore.7.0.0.13676.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"EcoCore 7.0.0.13676\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "EcoCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

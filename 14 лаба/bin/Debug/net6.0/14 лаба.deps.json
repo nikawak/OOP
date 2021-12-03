@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "14 лаба/1.0.0": {
+        "dependencies": {
+          "EcoCore": "7.0.0.13676"
+        },
+        "runtime": {
+          "14 лаба.dll": {}
+        }
+      },
+      "EcoCore/7.0.0.13676": {
+        "runtime": {
+          "lib/net40/Eco.Handles.dll": {
+            "assemblyVersion": "7.0.0.13676",
+            "fileVersion": "7.0.0.13676"
+          },
+          "lib/net40/Eco.Interfaces.dll": {
+            "assemblyVersion": "7.0.0.13676",
+            "fileVersion": "7.0.0.13676"
+          },
+          "lib/net40/Eco.LinqExtender.dll": {
+            "assemblyVersion": "7.0.0.13676",
+            "fileVersion": "7.0.0.13676"
+          },
+          "lib/net40/MDriven.Net.Http.dll": {
+            "assemblyVersion": "7.0.0.13676",
+            "fileVersion": "7.0.0.13676"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14 лаба/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EcoCore/7.0.0.13676": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J5wTe1AKqyU+F+OeDo2MQimi51bH3RP68uzJng9KG6yseKvehORD8zAVo9THhMZnLiJeDhv6DcyxLeZJtqeDdg==",
+      "path": "ecocore/7.0.0.13676",
+      "hashPath": "ecocore.7.0.0.13676.nupkg.sha512"
+    }
+  }
+}

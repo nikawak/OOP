@@ -1,0 +1,21 @@
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\14 лаба.exe
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\14 лаба.deps.json
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\14 лаба.runtimeconfig.json
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\14 лаба.dll
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\ref\14 лаба.dll
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\14 лаба.pdb
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.GlobalUsings.g.cs
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.csproj.AssemblyReference.cache
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.AssemblyInfoInputs.cache
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.AssemblyInfo.cs
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.csproj.CoreCompileInputs.cache
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.dll
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\ref\14 лаба.dll
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.pdb
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.genruntimeconfig.cache
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\Eco.Handles.dll
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\Eco.Interfaces.dll
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\Eco.LinqExtender.dll
+D:\Programming\Лабы\oop\14 лаба\bin\Debug\net6.0\MDriven.Net.Http.dll
+D:\Programming\Лабы\oop\14 лаба\obj\Debug\net6.0\14 лаба.csproj.CopyComplete

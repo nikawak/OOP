@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Name>Nikawak</Name><Age>18</Age><AvgMark>9.67</AvgMark></Student>

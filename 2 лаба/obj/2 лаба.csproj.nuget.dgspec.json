@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Лабы\\OOP\\2 лаба\\2 лаба.csproj": {}
+    "D:\\Programming\\Лабы\\oop\\2 лаба\\2 лаба.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Лабы\\OOP\\2 лаба\\2 лаба.csproj": {
+    "D:\\Programming\\Лабы\\oop\\2 лаба\\2 лаба.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Лабы\\OOP\\2 лаба\\2 лаба.csproj",
+        "projectUniqueName": "D:\\Programming\\Лабы\\oop\\2 лаба\\2 лаба.csproj",
         "projectName": "2 лаба",
-        "projectPath": "D:\\Programming\\Лабы\\OOP\\2 лаба\\2 лаба.csproj",
-        "packagesPath": "C:\\Users\\Nikawak\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Лабы\\OOP\\2 лаба\\obj\\",
+        "projectPath": "D:\\Programming\\Лабы\\oop\\2 лаба\\2 лаба.csproj",
+        "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Лабы\\oop\\2 лаба\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nikawak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.11, 5.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       }
     }

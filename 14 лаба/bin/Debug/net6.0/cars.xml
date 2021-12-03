@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car brand="Tesla X">
+    <Wheels>4</Wheels>
+    <EnginePower>260</EnginePower>
+  </Car>
+  <Car brand="БЕЛАЗ">
+    <Wheels>16</Wheels>
+    <EnginePower>20300</EnginePower>
+  </Car>
+  <Car brand="Ламборгини Урус">
+    <Wheels>5</Wheels>
+    <EnginePower>230</EnginePower>
+  </Car>
+</Cars>
