@@ -45,7 +45,7 @@ namespace _13_лаба
                 new LogNikawak("inspect", @"D:\Programming\Лабы\oop\13 лаба\bin\Debug\net6.0\inspect").WriteInLogFile(ActionFile.FirstTask);
             }
         }
-
+            
         public static void SecondTask(DirectoryInfo dir, string extension)
         {
             

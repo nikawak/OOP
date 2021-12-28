@@ -1,0 +1,16 @@
+D:\Programming\Лабы\oop\16 лаба\bin\Debug\net6.0\16 лаба.exe
+D:\Programming\Лабы\oop\16 лаба\bin\Debug\net6.0\16 лаба.deps.json
+D:\Programming\Лабы\oop\16 лаба\bin\Debug\net6.0\16 лаба.runtimeconfig.json
+D:\Programming\Лабы\oop\16 лаба\bin\Debug\net6.0\16 лаба.dll
+D:\Programming\Лабы\oop\16 лаба\bin\Debug\net6.0\ref\16 лаба.dll
+D:\Programming\Лабы\oop\16 лаба\bin\Debug\net6.0\16 лаба.pdb
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.GlobalUsings.g.cs
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.csproj.AssemblyReference.cache
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.AssemblyInfoInputs.cache
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.AssemblyInfo.cs
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.csproj.CoreCompileInputs.cache
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.dll
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\ref\16 лаба.dll
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.pdb
+D:\Programming\Лабы\oop\16 лаба\obj\Debug\net6.0\16 лаба.genruntimeconfig.cache

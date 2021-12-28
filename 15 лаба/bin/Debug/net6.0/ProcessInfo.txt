@@ -1,0 +1,969 @@
+Info about processes: 
+==============================
+Process name: Idle
+ID: 0
+Process priority: 0
+Process start time: access denied
+Processor time for this process: access denied
+------------------------------
+Process name: System
+ID: 4
+Process priority: 8
+Process start time: 11.12.2021 21:21:02
+Processor time for this process: 00:05:55.9843750
+------------------------------
+Process name: Registry
+ID: 160
+Process priority: 8
+Process start time: 11.12.2021 21:20:54
+Processor time for this process: 00:00:00.8906250
+------------------------------
+Process name: smss
+ID: 496
+Process priority: 11
+Process start time: 11.12.2021 21:21:02
+Processor time for this process: 00:00:00.2187500
+------------------------------
+Process name: csrss
+ID: 764
+Process priority: 13
+Process start time: 11.12.2021 21:21:14
+Processor time for this process: 00:00:01.9687500
+------------------------------
+Process name: csrss
+ID: 864
+Process priority: 13
+Process start time: 11.12.2021 21:21:16
+Processor time for this process: 00:00:09.7187500
+------------------------------
+Process name: wininit
+ID: 888
+Process priority: 13
+Process start time: 11.12.2021 21:21:16
+Processor time for this process: 00:00:00.0781250
+------------------------------
+Process name: winlogon
+ID: 948
+Process priority: 13
+Process start time: 11.12.2021 21:21:17
+Processor time for this process: 00:00:00.3281250
+------------------------------
+Process name: services
+ID: 1004
+Process priority: 9
+Process start time: 11.12.2021 21:21:17
+Processor time for this process: 00:00:06.7968750
+------------------------------
+Process name: lsass
+ID: 124
+Process priority: 9
+Process start time: 11.12.2021 21:21:18
+Processor time for this process: 00:00:09.8750000
+------------------------------
+Process name: svchost
+ID: 1032
+Process priority: 8
+Process start time: 11.12.2021 21:21:20
+Processor time for this process: 00:02:04.9062500
+------------------------------
+Process name: fontdrvhost
+ID: 1060
+Process priority: 8
+Process start time: 11.12.2021 21:21:20
+Processor time for this process: 00:00:00.0625000
+------------------------------
+Process name: fontdrvhost
+ID: 1068
+Process priority: 8
+Process start time: 11.12.2021 21:21:20
+Processor time for this process: 00:00:02.0156250
+------------------------------
+Process name: svchost
+ID: 1172
+Process priority: 8
+Process start time: 11.12.2021 21:21:21
+Processor time for this process: 00:00:57.2343750
+------------------------------
+Process name: dwm
+ID: 1264
+Process priority: 13
+Process start time: 11.12.2021 21:21:22
+Processor time for this process: 00:05:41.1250000
+------------------------------
+Process name: svchost
+ID: 1312
+Process priority: 8
+Process start time: 11.12.2021 21:21:22
+Processor time for this process: 00:00:00.9531250
+------------------------------
+Process name: svchost
+ID: 1412
+Process priority: 8
+Process start time: 11.12.2021 21:21:23
+Processor time for this process: 00:00:06.1250000
+------------------------------
+Process name: svchost
+ID: 1420
+Process priority: 8
+Process start time: 11.12.2021 21:21:23
+Processor time for this process: 00:00:00.1093750
+------------------------------
+Process name: svchost
+ID: 1428
+Process priority: 8
+Process start time: 11.12.2021 21:21:23
+Processor time for this process: 00:00:03.6562500
+------------------------------
+Process name: svchost
+ID: 1436
+Process priority: 8
+Process start time: 11.12.2021 21:21:23
+Processor time for this process: 00:02:14.5312500
+------------------------------
+Process name: svchost
+ID: 1672
+Process priority: 8
+Process start time: 11.12.2021 21:21:24
+Processor time for this process: 00:00:00.6250000
+------------------------------
+Process name: NVDisplay.Container
+ID: 1696
+Process priority: 8
+Process start time: 11.12.2021 21:21:24
+Processor time for this process: 00:00:00.6718750
+------------------------------
+Process name: svchost
+ID: 1908
+Process priority: 8
+Process start time: 11.12.2021 21:21:25
+Processor time for this process: 00:00:04.7031250
+------------------------------
+Process name: igfxCUIService
+ID: 1212
+Process priority: 8
+Process start time: 11.12.2021 21:21:27
+Processor time for this process: 00:00:00.0156250
+------------------------------
+Process name: svchost
+ID: 1876
+Process priority: 8
+Process start time: 11.12.2021 21:21:27
+Processor time for this process: 00:00:17.6718750
+------------------------------
+Process name: svchost
+ID: 1160
+Process priority: 8
+Process start time: 11.12.2021 21:21:27
+Processor time for this process: 00:00:42.0468750
+------------------------------
+Process name: svchost
+ID: 2196
+Process priority: 8
+Process start time: 11.12.2021 21:21:28
+Processor time for this process: 00:00:00.6406250
+------------------------------
+Process name: svchost
+ID: 2332
+Process priority: 8
+Process start time: 11.12.2021 21:21:29
+Processor time for this process: 00:00:00.1250000
+------------------------------
+Process name: svchost
+ID: 2340
+Process priority: 8
+Process start time: 11.12.2021 21:21:29
+Processor time for this process: 00:00:00.3750000
+------------------------------
+Process name: svchost
+ID: 2392
+Process priority: 8
+Process start time: 11.12.2021 21:21:29
+Processor time for this process: 00:00:12.8750000
+------------------------------
+Process name: NVDisplay.Container
+ID: 2564
+Process priority: 8
+Process start time: 11.12.2021 21:21:30
+Processor time for this process: 00:00:14.2187500
+------------------------------
+Process name: svchost
+ID: 2596
+Process priority: 8
+Process start time: 11.12.2021 21:21:30
+Processor time for this process: 00:00:01.7656250
+------------------------------
+Process name: AsLdrSrv64
+ID: 2632
+Process priority: 8
+Process start time: 11.12.2021 21:21:30
+Processor time for this process: 00:00:00.0781250
+------------------------------
+Process name: spoolsv
+ID: 2708
+Process priority: 8
+Process start time: 11.12.2021 21:21:30
+Processor time for this process: 00:00:00.2656250
+------------------------------
+Process name: svchost
+ID: 2732
+Process priority: 8
+Process start time: 11.12.2021 21:21:30
+Processor time for this process: 00:00:03.7656250
+------------------------------
+Process name: svchost
+ID: 2792
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:00.2343750
+------------------------------
+Process name: svchost
+ID: 2928
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:00.3593750
+------------------------------
+Process name: ASUSOptimization
+ID: 2952
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:00.0312500
+------------------------------
+Process name: AsusSoftwareManager
+ID: 2960
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:00.2031250
+------------------------------
+Process name: AsusLinkRemote
+ID: 2968
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:00.3593750
+------------------------------
+Process name: AsusSystemDiagnosis
+ID: 2976
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:00.0156250
+------------------------------
+Process name: AsusSystemAnalysis
+ID: 3032
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:00.4843750
+------------------------------
+Process name: AsusAppService
+ID: 3040
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:01.8593750
+------------------------------
+Process name: AsusLinkNear
+ID: 3048
+Process priority: 8
+Process start time: 11.12.2021 21:21:31
+Processor time for this process: 00:00:00.2031250
+------------------------------
+Process name: RtkAudUService64
+ID: 2524
+Process priority: 8
+Process start time: 11.12.2021 21:21:32
+Processor time for this process: 00:00:00.1250000
+------------------------------
+Process name: AsHidSrv64
+ID: 2516
+Process priority: 8
+Process start time: 11.12.2021 21:21:32
+Processor time for this process: 00:00:00
+------------------------------
+Process name: OfficeClickToRun
+ID: 3056
+Process priority: 8
+Process start time: 11.12.2021 21:21:32
+Processor time for this process: 00:00:01.7031250
+------------------------------
+Process name: MsMpEng
+ID: 3112
+Process priority: 8
+Process start time: 11.12.2021 21:21:32
+Processor time for this process: 00:04:36.1250000
+------------------------------
+Process name: IntelCpHDCPSvc
+ID: 3120
+Process priority: 8
+Process start time: 11.12.2021 21:21:32
+Processor time for this process: 00:00:00
+------------------------------
+Process name: armsvc
+ID: 3128
+Process priority: 8
+Process start time: 11.12.2021 21:21:32
+Processor time for this process: 00:00:00
+------------------------------
+Process name: WTabletServicePro
+ID: 3136
+Process priority: 8
+Process start time: 11.12.2021 21:21:32
+Processor time for this process: 00:01:56.2187500
+------------------------------
+Process name: AGMService
+ID: 3232
+Process priority: 8
+Process start time: 11.12.2021 21:21:33
+Processor time for this process: 00:00:00.5156250
+------------------------------
+Process name: AGSService
+ID: 3248
+Process priority: 8
+Process start time: 11.12.2021 21:21:33
+Processor time for this process: 00:00:00.2343750
+------------------------------
+Process name: wlanext
+ID: 2412
+Process priority: 8
+Process start time: 11.12.2021 21:21:42
+Processor time for this process: 00:00:00.1875000
+------------------------------
+Process name: conhost
+ID: 1644
+Process priority: 8
+Process start time: 11.12.2021 21:21:42
+Processor time for this process: 00:00:00
+------------------------------
+Process name: Intel_PIE_Service
+ID: 3944
+Process priority: 8
+Process start time: 11.12.2021 21:21:44
+Processor time for this process: 00:00:00.1093750
+------------------------------
+Process name: WmiPrvSE
+ID: 4776
+Process priority: 8
+Process start time: 11.12.2021 21:21:51
+Processor time for this process: 00:00:00.6406250
+------------------------------
+Process name: unsecapp
+ID: 4856
+Process priority: 8
+Process start time: 11.12.2021 21:21:52
+Processor time for this process: 00:00:00.1093750
+------------------------------
+Process name: AsMonStartupTask64
+ID: 4200
+Process priority: 8
+Process start time: 11.12.2021 21:22:14
+Processor time for this process: 00:00:00.0312500
+------------------------------
+Process name: svchost
+ID: 4632
+Process priority: 8
+Process start time: 11.12.2021 21:22:15
+Processor time for this process: 00:00:00.6250000
+------------------------------
+Process name: sihost
+ID: 4904
+Process priority: 8
+Process start time: 11.12.2021 21:22:15
+Processor time for this process: 00:03:53.3125000
+------------------------------
+Process name: svchost
+ID: 4552
+Process priority: 8
+Process start time: 11.12.2021 21:22:15
+Processor time for this process: 00:00:00.5156250
+------------------------------
+Process name: svchost
+ID: 5016
+Process priority: 8
+Process start time: 11.12.2021 21:22:15
+Processor time for this process: 00:00:03.8437500
+------------------------------
+Process name: taskhostw
+ID: 4500
+Process priority: 8
+Process start time: 11.12.2021 21:22:15
+Processor time for this process: 00:00:02.5781250
+------------------------------
+Process name: igfxEM
+ID: 2800
+Process priority: 8
+Process start time: 11.12.2021 21:22:16
+Processor time for this process: 00:00:03.4531250
+------------------------------
+Process name: ctfmon
+ID: 5140
+Process priority: 13
+Process start time: 11.12.2021 21:22:17
+Processor time for this process: 00:00:13.6250000
+------------------------------
+Process name: TabTip
+ID: 5164
+Process priority: 13
+Process start time: 11.12.2021 21:22:17
+Processor time for this process: 00:00:02.7656250
+------------------------------
+Process name: explorer
+ID: 5408
+Process priority: 8
+Process start time: 11.12.2021 21:22:20
+Processor time for this process: 00:03:23.3750000
+------------------------------
+Process name: Wacom_TabletUser
+ID: 5608
+Process priority: 8
+Process start time: 11.12.2021 21:22:24
+Processor time for this process: 00:00:00.0625000
+------------------------------
+Process name: WacomHost
+ID: 5648
+Process priority: 8
+Process start time: 11.12.2021 21:22:24
+Processor time for this process: 00:00:00.0468750
+------------------------------
+Process name: Wacom_Tablet
+ID: 5696
+Process priority: 10
+Process start time: 11.12.2021 21:22:24
+Processor time for this process: 00:00:01.5468750
+------------------------------
+Process name: Wacom_TouchUser
+ID: 5724
+Process priority: 10
+Process start time: 11.12.2021 21:22:24
+Processor time for this process: 00:00:01.3125000
+------------------------------
+Process name: MsMpEngCP
+ID: 5840
+Process priority: 8
+Process start time: 11.12.2021 21:22:26
+Processor time for this process: 00:03:10.7656250
+------------------------------
+Process name: svchost
+ID: 5888
+Process priority: 8
+Process start time: 11.12.2021 21:22:26
+Processor time for this process: 00:00:01.0937500
+------------------------------
+Process name: NisSrv
+ID: 1320
+Process priority: 8
+Process start time: 11.12.2021 21:22:33
+Processor time for this process: 00:00:00.4218750
+------------------------------
+Process name: SearchIndexer
+ID: 1372
+Process priority: 8
+Process start time: 11.12.2021 21:22:37
+Processor time for this process: 00:00:03.8281250
+------------------------------
+Process name: SearchHost
+ID: 3804
+Process priority: 8
+Process start time: 11.12.2021 21:22:45
+Processor time for this process: 00:00:02.3125000
+------------------------------
+Process name: StartMenuExperienceHost
+ID: 3872
+Process priority: 8
+Process start time: 11.12.2021 21:22:45
+Processor time for this process: 00:00:02.6562500
+------------------------------
+Process name: RtkAudUService64
+ID: 4496
+Process priority: 6
+Process start time: 11.12.2021 21:22:46
+Processor time for this process: 00:00:00.0937500
+------------------------------
+Process name: RuntimeBroker
+ID: 3788
+Process priority: 8
+Process start time: 11.12.2021 21:22:47
+Processor time for this process: 00:00:00.1875000
+------------------------------
+Process name: svchost
+ID: 4580
+Process priority: 8
+Process start time: 11.12.2021 21:22:49
+Processor time for this process: 00:00:00.0156250
+------------------------------
+Process name: RuntimeBroker
+ID: 4556
+Process priority: 8
+Process start time: 11.12.2021 21:22:52
+Processor time for this process: 00:00:00.1406250
+------------------------------
+Process name: audiodg
+ID: 2232
+Process priority: 8
+Process start time: 11.12.2021 21:23:05
+Processor time for this process: 00:00:19.9218750
+------------------------------
+Process name: SecurityHealthSystray
+ID: 6304
+Process priority: 8
+Process start time: 11.12.2021 21:23:07
+Processor time for this process: 00:00:00.0625000
+------------------------------
+Process name: SecurityHealthService
+ID: 6328
+Process priority: 8
+Process start time: 11.12.2021 21:23:07
+Processor time for this process: 00:00:00.4218750
+------------------------------
+Process name: msedge
+ID: 6632
+Process priority: 8
+Process start time: 11.12.2021 21:23:11
+Processor time for this process: 00:02:52.2343750
+------------------------------
+Process name: AdobeCollabSync
+ID: 6676
+Process priority: 8
+Process start time: 11.12.2021 21:23:12
+Processor time for this process: 00:00:00.4687500
+------------------------------
+Process name: msedge
+ID: 6684
+Process priority: 8
+Process start time: 11.12.2021 21:23:12
+Processor time for this process: 00:00:00.0468750
+------------------------------
+Process name: AdobeCollabSync
+ID: 6808
+Process priority: 8
+Process start time: 11.12.2021 21:23:15
+Processor time for this process: 00:00:02.1406250
+------------------------------
+Process name: wallpaper64
+ID: 7064
+Process priority: 8
+Process start time: 11.12.2021 21:23:21
+Processor time for this process: 00:00:35.2656250
+------------------------------
+Process name: figma_agent
+ID: 7160
+Process priority: 8
+Process start time: 11.12.2021 21:23:22
+Processor time for this process: 00:00:00.5312500
+------------------------------
+Process name: acrotray
+ID: 6544
+Process priority: 8
+Process start time: 11.12.2021 21:23:25
+Processor time for this process: 00:00:00.1406250
+------------------------------
+Process name: Lightshot
+ID: 4376
+Process priority: 8
+Process start time: 11.12.2021 21:23:28
+Processor time for this process: 00:00:02.3750000
+------------------------------
+Process name: msedge
+ID: 6548
+Process priority: 10
+Process start time: 11.12.2021 21:23:45
+Processor time for this process: 00:05:24.1562500
+------------------------------
+Process name: msedge
+ID: 4712
+Process priority: 8
+Process start time: 11.12.2021 21:23:46
+Processor time for this process: 00:00:47.4062500
+------------------------------
+Process name: msedge
+ID: 1460
+Process priority: 8
+Process start time: 11.12.2021 21:23:48
+Processor time for this process: 00:00:03.4062500
+------------------------------
+Process name: svchost
+ID: 6604
+Process priority: 8
+Process start time: 11.12.2021 21:24:18
+Processor time for this process: 00:00:00.5312500
+------------------------------
+Process name: AcrobatNotificationClient
+ID: 5488
+Process priority: 8
+Process start time: 11.12.2021 21:25:27
+Processor time for this process: 00:00:00.7343750
+------------------------------
+Process name: devenv
+ID: 1660
+Process priority: 8
+Process start time: 11.12.2021 21:26:42
+Processor time for this process: 00:43:17.5937500
+------------------------------
+Process name: AsusSoftwareManagerAgent
+ID: 6712
+Process priority: 8
+Process start time: 11.12.2021 21:26:55
+Processor time for this process: 00:00:02.9062500
+------------------------------
+Process name: PerfWatson2
+ID: 3544
+Process priority: 8
+Process start time: 11.12.2021 21:27:10
+Processor time for this process: 00:00:22.1875000
+------------------------------
+Process name: ApplicationFrameHost
+ID: 3396
+Process priority: 8
+Process start time: 11.12.2021 21:27:12
+Processor time for this process: 00:00:19.8906250
+------------------------------
+Process name: Microsoft.ServiceHub.Controller
+ID: 6864
+Process priority: 8
+Process start time: 11.12.2021 21:27:23
+Processor time for this process: 00:00:37.5312500
+------------------------------
+Process name: ServiceHub.VSDetouredHost
+ID: 4444
+Process priority: 8
+Process start time: 11.12.2021 21:27:34
+Processor time for this process: 00:00:13.9375000
+------------------------------
+Process name: ServiceHub.Host.CLR.x86
+ID: 4544
+Process priority: 8
+Process start time: 11.12.2021 21:27:34
+Processor time for this process: 00:00:12.3750000
+------------------------------
+Process name: ServiceHub.IdentityHost
+ID: 4316
+Process priority: 8
+Process start time: 11.12.2021 21:27:34
+Processor time for this process: 00:00:16.7343750
+------------------------------
+Process name: ServiceHub.SettingsHost
+ID: 6168
+Process priority: 8
+Process start time: 11.12.2021 21:27:34
+Processor time for this process: 00:00:22.0937500
+------------------------------
+Process name: svchost
+ID: 2668
+Process priority: 8
+Process start time: 11.12.2021 21:27:45
+Processor time for this process: 00:00:00.3125000
+------------------------------
+Process name: ServiceHub.ThreadedWaitDialog
+ID: 7800
+Process priority: 8
+Process start time: 11.12.2021 21:28:07
+Processor time for this process: 00:02:48.5937500
+------------------------------
+Process name: ServiceHub.RoslynCodeAnalysisService
+ID: 4788
+Process priority: 8
+Process start time: 11.12.2021 21:28:47
+Processor time for this process: 00:20:36.3906250
+------------------------------
+Process name: ServiceHub.Host.CLR
+ID: 5172
+Process priority: 8
+Process start time: 11.12.2021 21:28:55
+Processor time for this process: 00:00:47.0937500
+------------------------------
+Process name: ServiceHub.Host.CLR.x64
+ID: 7316
+Process priority: 8
+Process start time: 11.12.2021 21:29:02
+Processor time for this process: 00:00:19.1093750
+------------------------------
+Process name: ServiceHub.Host.CLR.x86
+ID: 7332
+Process priority: 8
+Process start time: 11.12.2021 21:29:03
+Processor time for this process: 00:02:51.2031250
+------------------------------
+Process name: ServiceHub.TestWindowStoreHost
+ID: 4180
+Process priority: 8
+Process start time: 11.12.2021 21:29:10
+Processor time for this process: 00:00:10.8906250
+------------------------------
+Process name: Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+ID: 5576
+Process priority: 6
+Process start time: 11.12.2021 21:29:11
+Processor time for this process: 00:00:04.8593750
+------------------------------
+Process name: ServiceHub.DataWarehouseHost
+ID: 8356
+Process priority: 8
+Process start time: 11.12.2021 21:29:45
+Processor time for this process: 00:01:09.8906250
+------------------------------
+Process name: WebViewHost
+ID: 8004
+Process priority: 8
+Process start time: 11.12.2021 21:29:55
+Processor time for this process: 00:02:57.5000000
+------------------------------
+Process name: conhost
+ID: 3844
+Process priority: 8
+Process start time: 11.12.2021 21:29:55
+Processor time for this process: 00:00:00.0625000
+------------------------------
+Process name: ShellExperienceHost
+ID: 9612
+Process priority: 8
+Process start time: 11.12.2021 21:34:04
+Processor time for this process: 00:00:05.4687500
+------------------------------
+Process name: RuntimeBroker
+ID: 7508
+Process priority: 8
+Process start time: 11.12.2021 21:34:05
+Processor time for this process: 00:00:01.4687500
+------------------------------
+Process name: SystemSettingsBroker
+ID: 8024
+Process priority: 8
+Process start time: 11.12.2021 21:34:05
+Processor time for this process: 00:00:03.1093750
+------------------------------
+Process name: svchost
+ID: 5192
+Process priority: 8
+Process start time: 11.12.2021 21:34:07
+Processor time for this process: 00:00:00.1093750
+------------------------------
+Process name: Acrobat
+ID: 2308
+Process priority: 8
+Process start time: 11.12.2021 21:36:18
+Processor time for this process: 00:00:22.6093750
+------------------------------
+Process name: AcroCEF
+ID: 1516
+Process priority: 8
+Process start time: 11.12.2021 21:36:27
+Processor time for this process: 00:00:04.3281250
+------------------------------
+Process name: AcroCEF
+ID: 11212
+Process priority: 8
+Process start time: 11.12.2021 21:36:32
+Processor time for this process: 00:00:05.1875000
+------------------------------
+Process name: AcroCEF
+ID: 6852
+Process priority: 8
+Process start time: 11.12.2021 21:36:39
+Processor time for this process: 00:00:04.8125000
+------------------------------
+Process name: RuntimeBroker
+ID: 14052
+Process priority: 8
+Process start time: 12.12.2021 0:33:35
+Processor time for this process: 00:00:00.2343750
+------------------------------
+Process name: msedge
+ID: 19148
+Process priority: 8
+Process start time: 12.12.2021 1:33:28
+Processor time for this process: 00:00:09
+------------------------------
+Process name: dllhost
+ID: 8180
+Process priority: 8
+Process start time: 12.12.2021 1:54:34
+Processor time for this process: 00:00:00.0468750
+------------------------------
+Process name: Telegram
+ID: 4560
+Process priority: 8
+Process start time: 12.12.2021 1:57:00
+Processor time for this process: 00:00:59.0156250
+------------------------------
+Process name: MoUsoCoreWorker
+ID: 18732
+Process priority: 8
+Process start time: 12.12.2021 2:22:52
+Processor time for this process: 00:00:01.7343750
+------------------------------
+Process name: MoNotificationUx
+ID: 17196
+Process priority: 8
+Process start time: 12.12.2021 2:22:57
+Processor time for this process: 00:00:00.0937500
+------------------------------
+Process name: MSBuild
+ID: 8868
+Process priority: 8
+Process start time: 12.12.2021 2:26:14
+Processor time for this process: 00:00:16.1406250
+------------------------------
+Process name: conhost
+ID: 19124
+Process priority: 8
+Process start time: 12.12.2021 2:26:14
+Processor time for this process: 00:00:00.0312500
+------------------------------
+Process name: VBCSCompiler
+ID: 13708
+Process priority: 8
+Process start time: 12.12.2021 2:26:20
+Processor time for this process: 00:00:19.5468750
+------------------------------
+Process name: conhost
+ID: 10592
+Process priority: 8
+Process start time: 12.12.2021 2:26:20
+Processor time for this process: 00:00:00.0156250
+------------------------------
+Process name: StandardCollector.Service
+ID: 12572
+Process priority: 8
+Process start time: 12.12.2021 2:54:40
+Processor time for this process: 00:00:03.9687500
+------------------------------
+Process name: msedge
+ID: 14520
+Process priority: 4
+Process start time: 12.12.2021 3:02:56
+Processor time for this process: 00:00:07.7031250
+------------------------------
+Process name: svchost
+ID: 15672
+Process priority: 8
+Process start time: 12.12.2021 3:32:04
+Processor time for this process: 00:00:00.0156250
+----------------------------------------------
+Process name: ServiceHub.IdentityHost
+ID: 4248
+Process priority: 8
+Process start time: 10.12.2021 1:00:36
+Processor time for this process: 00:00:12.1718750
+------------------------------
+Process name: ServiceHub.RoslynCodeAnalysisService
+ID: 11832
+Process priority: 8
+Process start time: 10.12.2021 1:00:39
+Processor time for this process: 00:00:54.6250000
+------------------------------
+Process name: ServiceHub.Host.CLR
+ID: 5080
+Process priority: 8
+Process start time: 10.12.2021 1:00:41
+Processor time for this process: 00:00:15.2187500
+------------------------------
+Process name: ServiceHub.SettingsHost
+ID: 13244
+Process priority: 8
+Process start time: 10.12.2021 1:00:44
+Processor time for this process: 00:00:14.5156250
+------------------------------
+Process name: ServiceHub.Host.CLR.x64
+ID: 3504
+Process priority: 8
+Process start time: 10.12.2021 1:00:50
+Processor time for this process: 00:00:08.4843750
+------------------------------
+Process name: ServiceHub.Host.CLR.x86
+ID: 12444
+Process priority: 8
+Process start time: 10.12.2021 1:00:51
+Processor time for this process: 00:00:09.1875000
+------------------------------
+Process name: ServiceHub.TestWindowStoreHost
+ID: 12832
+Process priority: 8
+Process start time: 10.12.2021 1:00:53
+Processor time for this process: 00:00:08.9218750
+------------------------------
+Process name: Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+ID: 7028
+Process priority: 6
+Process start time: 10.12.2021 1:00:54
+Processor time for this process: 00:00:04.9218750
+------------------------------
+Process name: ServiceHub.Host.CLR.x86
+ID: 12936
+Process priority: 8
+Process start time: 10.12.2021 1:00:54
+Processor time for this process: 00:00:09.2500000
+------------------------------
+Process name: MSBuild
+ID: 7740
+Process priority: 8
+Process start time: 10.12.2021 1:05:10
+Processor time for this process: 00:00:06.4687500
+------------------------------
+Process name: conhost
+ID: 10684
+Process priority: 8
+Process start time: 10.12.2021 1:05:10
+Processor time for this process: 00:00:00.0312500
+------------------------------
+Process name: ServiceHub.DataWarehouseHost
+ID: 11200
+Process priority: 8
+Process start time: 10.12.2021 1:05:36
+Processor time for this process: 00:00:15.9843750
+------------------------------
+Process name: WebViewHost
+ID: 5372
+Process priority: 8
+Process start time: 10.12.2021 1:06:00
+Processor time for this process: 00:00:05.1875000
+------------------------------
+Process name: conhost
+ID: 10652
+Process priority: 8
+Process start time: 10.12.2021 1:06:00
+Processor time for this process: 00:00:00.0156250
+------------------------------
+Process name: msedgewebview2
+ID: 11556
+Process priority: 8
+Process start time: 10.12.2021 1:06:09
+Processor time for this process: 00:00:02.3750000
+------------------------------
+Process name: msedgewebview2
+ID: 11516
+Process priority: 8
+Process start time: 10.12.2021 1:06:09
+Processor time for this process: 00:00:00.0625000
+------------------------------
+Process name: msedgewebview2
+ID: 8844
+Process priority: 10
+Process start time: 10.12.2021 1:06:11
+Processor time for this process: 00:00:00.8437500
+------------------------------
+Process name: msedgewebview2
+ID: 10308
+Process priority: 8
+Process start time: 10.12.2021 1:06:11
+Processor time for this process: 00:00:00.3437500
+------------------------------
+Process name: msedgewebview2
+ID: 9248
+Process priority: 8
+Process start time: 10.12.2021 1:06:11
+Processor time for this process: 00:00:00.0781250
+------------------------------
+Process name: msedgewebview2
+ID: 6160
+Process priority: 4
+Process start time: 10.12.2021 1:06:12
+Processor time for this process: 00:00:00.8750000
+------------------------------
+Process name: msedgewebview2
+ID: 8620
+Process priority: 4
+Process start time: 10.12.2021 1:06:13
+Processor time for this process: 00:00:00.2656250
+------------------------------
+Process name: msedgewebview2
+ID: 8424
+Process priority: 4
+Process start time: 10.12.2021 1:06:13
+Processor time for this process: 00:00:00.7812500
+------------------------------
+Process name: msedgewebview

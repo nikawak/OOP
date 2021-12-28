@@ -12,7 +12,7 @@ try
     FileManagerNikawak.SecondTask(new DirectoryInfo("inspect"), ".txt");
     FileManagerNikawak.ThirdTask();
 
-    LogNikawak.FindForHourAgo(-1);
+    LogNikawak.FindForHourAgo(1);
 
     Console.WriteLine("All operations were successfull");
     
